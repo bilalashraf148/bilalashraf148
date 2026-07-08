@@ -9,7 +9,7 @@ I enjoy creating clean interfaces, reliable backend systems, and practical solut
 
 **Backend:** Node.js · Express · TypeScript · PostgreSQL · MongoDB · REST APIs · GraphQL · Microservices  
 **Frontend:** React · Next.js · React Native · JavaScript  
-**Cloud & DevOps:** AWS · GCP · Docker · Git · GitHub  
+**Cloud & DevOps:** AWS · GCP · DigitalOcean · Docker · Git · GitHub
 **UI Systems:** Material UI · Tailwind CSS · Storybook  
 **Testing:** Jest · Cypress · Puppeteer  
 **AI Tools & Systems:** OpenAI · GPT-5 · Google Gemini · Deepgram · RAG · AI-driven workflows · structured OCR · translation/enrichment pipelines  
